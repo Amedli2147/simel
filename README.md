@@ -1,0 +1,2 @@
+# simel
+Boş yasam
